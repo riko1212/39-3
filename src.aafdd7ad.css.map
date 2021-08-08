@@ -1,1 +1,0 @@
-{"version":3,"sources":["sass/_header.scss"],"names":[],"mappings":"AAAA,SACI,UAAA,CACA,cAAA,CACA","file":"src.aafdd7ad.css","sourceRoot":"../src","sourcesContent":["header > p {\n    color: teal;\n    font-size: 24px;\n    letter-spacing: 0.8em;\n}"]}
