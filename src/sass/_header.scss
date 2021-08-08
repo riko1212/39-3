@@ -2,7 +2,11 @@ header > p {
     color: teal;
     font-size: 24px;
     letter-spacing: 0.8em;
+        @media screen and (min-width: 768px) {
+            background-color: tomato;
+        }
     b {
         font-size: 40px;
     }
+    
 }
