@@ -1,7 +1,11 @@
-ul {
+footer > ul {
   list-style: none;
   background-color: beige;
 }
-li {
+footer > li {
   color: tomato;
+  @media screen and(min-width:1200px) {
+    background-color: blue;
+    color: cadetblue;
+  }
 }
