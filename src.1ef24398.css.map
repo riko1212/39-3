@@ -1,0 +1,1 @@
+{"version":3,"sources":["sass/_header.scss"],"names":[],"mappings":"AAAA,SACI","file":"src.1ef24398.css","sourceRoot":"../src","sourcesContent":["header > p {\n    color: tomato;\n}"]}
