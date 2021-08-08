@@ -1,13 +1,22 @@
 .about-section{
     background-color: pink;
+
+    @media screen and (min-width:768px) {
+        background-color: yellow;
+    }
 }
 
 .about-section__list{
     list-style: none;
-
 }
 
 .about-section__item{
     font-size: 14px;
     line-height: 24px;
+    @media screen and (min-width:768px) {
+        font-size: 34px;
+    line-height: 44px;
+
+    }
+
 }
